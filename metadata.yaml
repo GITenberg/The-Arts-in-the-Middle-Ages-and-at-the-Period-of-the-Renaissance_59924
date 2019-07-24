@@ -1,5 +1,5 @@
 _repo: The-Arts-in-the-Middle-Ages-and-at-the-Period-of-the-Renaissance_59924
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Les arts au moyen âge et à l'époque de la renaissance. English
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '50698'
     url: http://www.gutenberg.org/2009/agents/50698
     wikipedia: https://en.wikipedia.org/wiki/James_Dafforne
+covers:
+- cover_type: archival
+  image_path: 59924-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Jacob, P. L.
@@ -26,6 +29,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Paul_Lacroix_(%C3%A9crivain)
     - https://en.wikipedia.org/wiki/Paul_Lacroix
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59924#The-Arts-in-the-Middle-Ages-and-at-the-Period-of-the-Renaissance
 gutenberg_issued: '2019-07-15'
 gutenberg_type: Text
 identifiers:
