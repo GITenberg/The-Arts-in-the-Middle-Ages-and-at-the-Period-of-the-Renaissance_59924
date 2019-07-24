@@ -1,0 +1,49 @@
+_repo: The-Arts-in-the-Middle-Ages-and-at-the-Period-of-the-Renaissance_59924
+_version: 0.0.1
+alternative_title: Les arts au moyen âge et à l'époque de la renaissance. English
+contributor:
+  translator:
+    agent_name: Dafforne, James
+    birthdate: 1804
+    deathdate: 1880
+    gutenberg_agent_id: '50698'
+    url: http://www.gutenberg.org/2009/agents/50698
+    wikipedia: https://en.wikipedia.org/wiki/James_Dafforne
+creator:
+  author:
+    agent_name: Jacob, P. L.
+    aliases:
+    - Jacob, Bibliophile
+    - Jacob, Paul Lacroix
+    - Lacroix, Paul
+    - Jacob, Paul L.
+    - Dufour, Pierre
+    birthdate: 1806
+    deathdate: 1884
+    gutenberg_agent_id: '4290'
+    url: http://www.gutenberg.org/2009/agents/4290
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Paul_Lacroix_(%C3%A9crivain)
+    - https://en.wikipedia.org/wiki/Paul_Lacroix
+description: ''
+gutenberg_issued: '2019-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59924'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Art, Medieval'
+- !lcsh 'Middle Ages'
+- !lcsh 'Art, Renaissance'
+- GITenberg
+tableOfContents: 'Furniture: household and ecclesiastical -- Tapestry -- Ceramic art
+  -- Arms and armour -- Carriages and saddlery -- Gold and silver work -- Horology
+  -- Musical instruments -- Playing-cards -- Glass-painting -- Fresco-painting --
+  Painting on wood, canvas, etc. -- Engraving -- Sculpture -- Architecture -- Parchment
+  and paper -- Manuscripts -- Miniatures in manuscripts -- Bookbinding -- Printing.'
+title: The Arts in the Middle Ages and at the Period of the Renaissance
+url: http://www.gutenberg.org/ebooks/59924
